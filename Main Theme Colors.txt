@@ -1,0 +1,5 @@
+The main colors for this theme are:
+Watermelon (#E9608E) (RGB 233,96,142)
+Rose Ebony (#604745) (RGB 96,71,69)
+Gunmetal (#282A36) (RGB 40,42,54)
+Dark Gunmetal (#1E1F29) (RGB 30,31,41)
